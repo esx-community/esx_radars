@@ -23,6 +23,7 @@ Speed radar, tickets speeders.
 - Based on speed, how much over the speed limit tickets X amount
 - Sends a bill, instead of automatically taking the money out. 
 - The ability to add more spots with different speed limits
+- Add vehicle hash list, so cops/ems can get fined when RPing as a civilian
 
 ## Requirements
 
