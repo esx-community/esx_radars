@@ -1,5 +1,3 @@
-esx_radars
-
 # esx_radars
 Original script: 
 - https://github.com/DreanorGTA5Mods/StationaryRadar
