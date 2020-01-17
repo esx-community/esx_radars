@@ -1,9 +1,6 @@
 --===============================================--===============================================
 --= stationary radars based on  https://github.com/DreanorGTA5Mods/StationaryRadar           =
 --===============================================--===============================================
-
-
-
 ESX              = nil
 local PlayerData = {}
 
@@ -85,4 +82,3 @@ function checkSpeed()
         })
     end
 end
-
